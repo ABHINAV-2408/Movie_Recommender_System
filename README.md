@@ -1,7 +1,5 @@
 # Movie_Recommender_System
 
-#  Movie Recommender System
-
 ##  Project Overview
 This project builds a **content-based movie recommender system** using Python.  
 It recommends similar movies based on textual metadata such as genre, cast, director, and plot keywords.  
