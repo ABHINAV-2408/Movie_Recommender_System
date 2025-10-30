@@ -1,8 +1,8 @@
 # Movie_Recommender_System
 
-# 🎬 Movie Recommender System
+#  Movie Recommender System
 
-## 📘 Project Overview
+##  Project Overview
 This project builds a **content-based movie recommender system** using Python.  
 It recommends similar movies based on textual metadata such as genre, cast, director, and plot keywords.  
 
@@ -10,13 +10,13 @@ The notebook demonstrates **end-to-end data science methodology** — from data 
 
 ---
 
-## 🧠 Objective
+##  Objective
 To develop a **recommendation engine** that suggests movies similar to a user-selected film.  
 This can be extended to streaming platforms or personal entertainment dashboards for better content discovery.
 
 ---
 
-## 🧩 Methodology
+##  Methodology
 
 ### 1. Data Understanding
 - Dataset contains movie titles and related attributes such as:
